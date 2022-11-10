@@ -1,5 +1,4 @@
 # Sample-Project-Git-Workflow
-
 step1:
 -Ensure you are in te correct folder
 -set up upstream:
@@ -22,5 +21,8 @@ step 4:
 step 5:
 Once you are done, push your changes
 -git add .
--git commiy -m "your message"
+-git commit -m "your message"
 -git push origin
+
+Hello, this is the readme file.
+
